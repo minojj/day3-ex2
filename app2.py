@@ -1,4 +1,3 @@
-
 for i in range(100, 0, -1):
     
     num_str = str(i)
@@ -12,4 +11,3 @@ for i in range(100, 0, -1):
         print("짝" * clap)
     else:
         print(i)
-
